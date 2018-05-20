@@ -4,25 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		153KV8QBlNNeAfjw7k1Lo771/Js=
+		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		P9Y/eoJ/zKNECQzxbXFQKOOeJJA=
+		9cN1qD0ymW4Wo3zkam5Fg1jzjCg=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		EqGqGuTCcSP0Pk1mxpIcxkgo/s4=
+		a7z6RvViVzo4xFj/UHEvoIUGphY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		GpVNvg5ty3JhSV87nYI+1HYpPcU=
+		BOtCIC6GKskPYLaW6itVG6GPxF4=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		ut/vNwYUHSlRKPOOxwusxZs7Loc=
+		D0QMDqk5AC9N5JKnqhKa5hptA3c=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		ogYmViuUhGnLW0kaHOUqD64pgVk=
+		hDVfua0GkdoOX2ubau6tvz+e6xk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -162,39 +166,46 @@
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftos" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Eli Spiegel (R8F5599242)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
+		<key>Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MNZpsPZoxfhfD2x1kLgxdqUpn+sFrjYPr8NihfxE8w4=
+			</data>
+		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UOsv4vbiFTMvbg+7wHkhqSeUoTa0Ny+7yGBIdkSwFmY=
+			np27JYwE5O0u47bokIc2CdVaznSt9bq86jvyl1ao9/Q=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dNqjNRRlwpO7p1QXsNHYKx00y1yvDmVb0dDuS0lxBSk=
+			O51FMjeVN+eXlcYPdlMlzeisTsvYfXwzBM4pZXNsaFk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			68DRJAedslC7Gi6C0mZcNclvhrn12Qqgy7KcQtuotFw=
+			tAEf29h0riufSEbPGCoOcFecAZxwstUu8anBlt030XM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b463kJUHD+bVdDFMdVN4Rjq8HCwg8fefDjFiXuMhYy0=
+			c0E/bKzx1VrJ0a4D8sSImTNKrEGCb7jGbNQseyW6BTA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wTaBUQAxp2YEFNbyQDY9DeL/l6qqcmIXjQa8EUeA9S4=
+			KAi62PO/fSBw8tGggBpjhassW/aQ6PMDcZa5l/vB+50=
 			</data>
 		</dict>
 	</dict>
